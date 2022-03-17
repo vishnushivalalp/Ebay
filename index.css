@@ -1,0 +1,180 @@
+.header{
+    width: 70%;
+    height: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    padding: 4px;
+}
+
+body{
+    margin: 0;
+}
+
+.header-link{
+    font-size: 12px;
+    padding-right: 15px;
+    padding-left: 15px;
+    line-height: 3px;
+}
+
+.head-left{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+.head-right{
+    padding-left: 12%;
+    float: left;
+    width: 29%;
+    height: 100%;
+}
+
+.bell-icon{
+    height: 18px;
+    padding-top: 3px;
+    line-height: 0%;
+    padding-right: 15px;
+}
+
+.cart-icon{
+    height: 18px;
+    padding-top: 3px;
+    line-height: 0%
+}
+
+.icons{
+    float: right;
+}
+
+hr{
+    border-width: 1px;
+    color: darkgray;
+}
+
+.ebay-logo{
+    height: 40px;
+}
+
+.drop-down{
+    height: 15px;
+}
+
+.submit-button{
+    background-color: #3665f3;
+    color: white;
+    width: 143px;
+    height: 39px;
+    border-color: #3665f3;
+}
+
+.search-text{
+    height: 33px;
+    width: 600px;
+}
+
+.table-div{
+    width: 70%;
+    margin: auto;
+    font-size: 12px;
+    font-weight: 100;
+}
+
+.table{
+    margin: auto;
+}
+
+.hr2{
+    border-width: 1px;
+    color: darkgray;
+    width: 70%;
+}
+
+.table-div2{
+    width: 100%;
+    padding-left: 11%;
+}
+
+.contents{
+    font-size: 12px;
+    padding-right: 15px;
+    padding-left: 15px;
+    line-height: 3px;
+}
+
+.textclass{
+    width: 25%;
+    padding-left: 35px;
+    background: rgb(252, 242, 189);
+}
+
+.bg{
+    width: 90%;
+    padding-left: 60px;
+    margin: auto;
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.shopnow-btn{
+    background: #FFFDD0;
+    font-size: 20px;
+    border-color: #333;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.shopnow-btn:hover{
+    background: #333;
+    color: white;
+}
+
+.bgh5{
+    font-weight: 100%;
+}
+
+.shopnow-arrow{
+    height: 50px;
+}
+
+.pic{
+    width:100% ;
+    float: left;
+}
+
+.main{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hr3{
+    border-width: 1px;
+    color: darkgray;
+}
+
+.new-contents{
+    font-size: 16px;
+    font-weight: bold;
+    padding-right: 160px;
+    line-height: 5px;
+    margin: auto;
+    color: #767676;
+}
+
+.div3{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+
+.sub-contents1{
+    font-size: 12px;
+    color: #767676;
+}
+
+.lastline{
+    font-size: 12px;
+    color: #767676;
+    padding-left: 150px;
+}
